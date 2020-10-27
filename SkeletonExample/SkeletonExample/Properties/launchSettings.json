@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SkeletonExample": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
